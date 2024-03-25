@@ -3,7 +3,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.util.ArrayList;
 
-public class GerenciamentoEstoque {
+public class InventoryManagement {
 
     // Declaração de ArrayLists para armazenar produtos e suas quantidades
     static ArrayList<String> produtos = new ArrayList<>();
